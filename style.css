@@ -1,0 +1,66 @@
+html, body {
+  height: 100%;
+  width: 100%;
+ 
+}
+p {
+  color: #000000;
+  font-size:20px;
+  font-family: Playfair Display Font;
+  font-style: bold;
+  background-color:  #ffffff;
+}
+
+header{ 
+  text-align: center;
+   font-size: 30px;
+   font-family: Playfair Display Font;
+   font-style: bold;
+   color: #00a0f0;
+   background-color: #00228a;
+  
+  }
+.helping { 
+  font-family: Playfair Display Font;
+  font-style: italic;
+   text-align: center;
+   font-size: 20px;
+}
+body{
+   
+}
+html{
+  background-color: #ffffff;
+}
+.navbar {
+  font-size: 20px;
+  font-family: Playfair Display Font;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 15%;
+  background-color: #ffffff;
+  height: 100%; /* Full height */
+  position: fixed; /* Make it stick, even on scroll */
+  overflow: auto; /* Enable scrolling if the sidenav has too much content */
+}
+/* Style the header */
+ .whatwedo{
+   font-family: Playfair Display Font;
+   background-color: white;
+ }
+.artforms{
+  font-family: Playfair Display Font;
+  font-size: 16px;
+  background-color: white;
+}
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #999999;
+  color: white;
+}
+.how{
+    background-color: #ffffff;
+    font-style: ;
+  }
